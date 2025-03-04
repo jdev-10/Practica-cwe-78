@@ -1,0 +1,4 @@
+Este es un archivo de texto.
+Esta es la segunda línea.
+Hay una tercera línea.
+Ya está muy largo el texto.
